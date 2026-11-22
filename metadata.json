@@ -1,0 +1,6 @@
+{
+  "name": "Cloudy — Pouch & Tas Laptop",
+  "description": "Toko online resmi Cloudy untuk koleksi pouch dan tas laptop puffy bernuansa pink dan putih dengan perlindungan lembut empat lapis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
